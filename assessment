@@ -1,0 +1,33 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+
+
+    //I don't know how to make a method, BUT, I know how to make an array, also josh is a booga ooga.
+    //Nevermind I seem to not know how to make an array, BUT, I will learn how to both make an array and create methods.
+    //Also, I know how to create comments!
+
+
+    public static void main(String[] args) {
+
+        int Age = 92;
+        char a = 0;
+        boolean Josh_Being_Ooga_booga = false;
+        double population = 2147483647;
+        float AHH = 6;
+        System.out.println(Age);
+        System.out.println(a);
+        System.out.println(Josh_Being_Ooga_booga);
+        System.out.println(population);
+        System.out.println(AHH);
+
+
+
+        //
+
+
+
+
+
+    }
+}
